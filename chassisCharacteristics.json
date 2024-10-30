@@ -1,15 +1,15 @@
 [
   {
     "id": "wasp",
-    "speed": "1200",
-    "turnSpeed": "3.403",
+    "speed": "1700",
+    "turnSpeed": "2.26893",
     "acceleration": "1300",
     "reverseAcceleration": "1800",
     "sideAcceleration": "2400",
-    "turnAcceleration": "3.142",
-    "reverseTurnAcceleration": "12.566",
+    "turnAcceleration": "2.61799",
+    "reverseTurnAcceleration": "6.28319",
     "damping": "900",
-    "mass": "3000"
+    "mass": "1000"
   },
   {
     "id": "hornet",
